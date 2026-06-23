@@ -14,6 +14,14 @@ const projects = [
     livelink:"https://website-builder-sigma-lac.vercel.app/",
   },
   {
+    title: "AI BATTEL ARINA",
+    category: "AI-Powered Web Application",
+    tools: "React 19, Vite 7, Tailwind CSS 4, Axios, Node.js, Express.js 5, TypeScript, LangChain, LangGraph, Google Gemini 2.5 Flash, Mistral AI, Cohere AI",
+    image: "/images/battle.png",
+    githublink:"https://github.com/amangupta20044/AI-BATTLE",
+    livelink:"https://ai-battle-chi.vercel.app/",
+  },
+  {
     title: "CodeJam – Real-Time Collaborative Coding Platform",
     category: "Real-Time Web Application",
     tools: "MERN Stack, Socket.IO, WebRTC, Monaco Editor",
