@@ -28,6 +28,14 @@ const Contact = () => {
               Github <MdArrowOutward />
             </a>
             <a
+              href="https://leetcode.com/u/gupta_aman123/"
+              target="_blank"
+              data-cursor="disable"
+              className="contact-social"
+            >
+              LeetCode <MdArrowOutward />
+            </a>
+            <a
               href="https://www.linkedin.com/in/aman-gupta-031381266?original_referer="
               target="_blank"
               data-cursor="disable"
