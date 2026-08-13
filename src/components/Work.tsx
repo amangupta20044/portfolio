@@ -5,6 +5,14 @@ import { MdArrowBack, MdArrowForward, MdArrowOutward } from "react-icons/md";
 import { FaGithub } from "react-icons/fa6";
 
 const projects = [
+   {
+    title: "SecondBrain",
+    category: "Web Application",
+    tools: "Manifest V3 React 18 TypeScript 5 Tailwind CSS 3 Express.js MongoDB",
+    image: "/images/brain.png",
+    githublink:"https://github.com/amangupta20044/SecondBrain-V3-main",
+    livelink:"https://second-brain-v3-main.vercel.app/",
+  },
   {
     title: "AI-Powered Website Builder",
     category: "Full Stack Web Application, Generative AI",
@@ -29,14 +37,7 @@ const projects = [
     githublink:"https://github.com/amangupta20044/CodeJam-main",
     livelink:"https://code-jam-ashy.vercel.app/",
   },
-  {
-    title: "AI Trip Planner",
-    category: "AI-Powered Web Application",
-    tools: "MERN Stack, Gemini AI, Firebase, Tailwind CSS",
-    image: "/images/trip.png",
-    githublink:"https://github.com/amangupta20044/ai-trip-planner-web",
-    livelink:"https://ai-trip-planner-web-black.vercel.app/",
-  },
+ 
   
 
 ];
